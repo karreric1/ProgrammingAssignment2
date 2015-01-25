@@ -1,3 +1,7 @@
+###Student File Notes
+The cachematrix.R file has been modified for use by a student taking a Coursera class.  Original code was provided by R. Peng of Johns Hopkins University.
+The remaining markup file was provided by R.Peng, forked on github.com.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
